@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Nasir Oztekin, a graduate student in philosophy at Istanbul University. In addition to my studies, I have also gained some experience in web development through learning languages such as HTML, CSS, JavaScript, and ReactJS. My passion is to use my skills to create functional and visually appealing websites and web applications. On my Github profile, you can see some of the projects I have worked on and my ability to translate ideas into technical solutions. As a developer, I am always looking to improve my skills and provide the best possible results for my clients.
+I am Nasir Oztekin, currently pursuing a graduate degree in philosophy at Istanbul University. In addition to my studies, I have also gained some experience in web development through learning languages such as HTML, CSS, JavaScript, and ReactJS. My passion is to use my skills to create functional and visually appealing websites and web applications. On my Github profile, you can see some of the projects I have worked on and my ability to translate ideas into technical solutions. As a developer, I am always looking to improve my skills and provide the best possible results for my clients.
 
 
 ## 🌐 Socials:
